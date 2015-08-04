@@ -1,2 +1,4 @@
-# trailsnorthamerica.trails.app
-cordova app to display stewards trails and provide geo-referenced advertising to support trails
+# trailsnorthamerica.trails.issues reporting
+Public issue reporting for org.trailsnorthamerica.trails
+
+Go to issues and create a new issue to report new feature wanted, bugs, or fixes we need to make with the dirt trails app.
